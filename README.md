@@ -4,7 +4,7 @@ Requirements:
 
 1. readline-sync package -> npm i readline-sync
 2. child_process package -> npm i child_process
-3. Github console installed. (Not Github Desktop)
+3. Git
 
 To use, you may run the executable file or type node index.js.
 
